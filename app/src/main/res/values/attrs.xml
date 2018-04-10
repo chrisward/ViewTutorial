@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleView">
+        <attr name="inactive_background" format="color" />
+        <attr name="active_background" format="color" />
+    </declare-styleable>
+</resources>
